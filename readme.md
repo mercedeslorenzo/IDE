@@ -3,8 +3,8 @@
 
 Telink Integrated Development Environment (IDE) is applicable to all engineers who develop wireless or embedded applications based on Telink SoC or Telink MCUs.
 
-[Download China](http://wiki.telink-semi.cn/tools_and_sdk/Tools/IDE/Telink_IDE.zip)__
-[Download US Dropbox](https://www.dropbox.com/s/ths9rev0tvhhl96/Telink_IDE.zip?dl=0)__
+[Download China](http://wiki.telink-semi.cn/tools_and_sdk/Tools/IDE/Telink_IDE.zip)\
+[Download US Dropbox](https://www.dropbox.com/s/ths9rev0tvhhl96/Telink_IDE.zip?dl=0)\
 [User guide](http://wiki.telink-semi.cn/tools_and_sdk/Tools/IDE/IDE_Userguide.zip)
 
 User can import project as the following step:
