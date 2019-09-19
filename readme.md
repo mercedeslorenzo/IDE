@@ -11,7 +11,7 @@ User can import project as the following step:
 
 * Click the pull-down menu “File→Import” to import Project
 
-![File-Import](http://wiki.telink-semi.cn/dokuwiki/lib/exe/detail.php?id=menu%3Atools%3Aide_quick_start&media=menu:tools:pasted:20181020-171632.png")
+![File-Import](http://wiki.telink-semi.cn/dokuwiki/lib/exe/fetch.php?media=menu:tools:pasted:20181020-171632.png")
 
 * Select “General→Existing Projects into Workspace” and click “Next”
 
@@ -21,7 +21,7 @@ User can import project as the following step:
 
 Note: You can find the Reference Design SDK project from each chipset family page - e.g [8x5x](https://telinkgithub.github.io/TLSR8x5x-Family/"), [823x](https://telinkgithub.github.io/TLSR823x-Family/")
 
-![Browse](http://wiki.telink-semi.cn/dokuwiki/lib/exe/detail.php?id=menu%3Atools%3Aide_quick_start&media=menu:tools:pasted:20181020-172016.png")
+![Browse](http://wiki.telink-semi.cn/dokuwiki/lib/exe/fetch.php?media=menu:tools:pasted:20181020-172016.png")
 
 
 ← [View the Project on GitHub](https://github.com/TelinkGithub/item-2 "Menu")
