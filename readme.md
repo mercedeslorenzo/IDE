@@ -1,4 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 Telink Integrated Development Environment (IDE) is applicable to all engineers who develop wireless or embedded applications based on Telink SoC or Telink MCUs.
 
@@ -23,7 +24,7 @@ Note: You can find the Reference Design SDK project from each chipset family pag
 ![Step 3](https://telinkgithub.github.io/Assets/11_Tools-IDE/20181020-172016.png)
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/item-2 "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/IDE)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
