@@ -18,7 +18,7 @@ __Step 2__: Select “General→Existing Projects into Workspace” and click �
 
 __Step 3__: Click the “Browse” button, select the project to be imported, then click the “Finish” button to complete import.
 
-*Note: You can find the Reference Design SDK project from each chipset family page - e.g [8x5x](https://telinkgithub.github.io/TLSR8x5x-Family/), [823x](https://telinkgithub.github.io/TLSR823x-TLSR836x-Series/)
+Note: You can find the Reference Design SDK project from each chipset family page - e.g [8x5x](https://telinkgithub.github.io/TLSR8x5x-Family/), [823x](https://telinkgithub.github.io/TLSR823x-TLSR836x-Series/)
 
 ![Step 3](https://telinkgithub.github.io/Assets/11_Tools-IDE/20181020-172016.png)
 
